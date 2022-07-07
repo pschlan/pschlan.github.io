@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2022-07-07 17:56:34 +0200
+categories: misc
+---
+
+Welcome to my new blog, based on Jekyll and hosted using GitHub pages. I'm going to use this blog as a collection of notes I consider interesting.
+
+The first blog post after this one has been migrated from my old, non-maintained blog hosted on Blogger.com. 
