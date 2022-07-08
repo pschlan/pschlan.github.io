@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: pschlan.dev
-email: pschlan@pschlan.dev
+title: patsch.dev
+email: patsch@patsch.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Random notes from a software development engineer based in Aachen, Germany.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,7 @@ github_username:  pschlan
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
